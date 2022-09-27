@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.6.2)
+  - IQKeyboardManagerSwift (6.5.10)
+  - Kingfisher (7.1.2)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - SkeletonView (1.29.2)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 7.1.2)
+  - NVActivityIndicatorView
+  - SkeletonView
+  - SQLite.swift (~> 0.12.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - NVActivityIndicatorView
+    - SkeletonView
+    - SQLite.swift
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  Kingfisher: 44ed6a8504763f27bab46163adfac83f5deb240c
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  SkeletonView: 915a80ecc2b6421ab7ac0f0212321c0cc1406472
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+
+PODFILE CHECKSUM: 6ad196e83e450ea8cb3a40fa5a24da4765bb9bdc
+
+COCOAPODS: 1.11.3
